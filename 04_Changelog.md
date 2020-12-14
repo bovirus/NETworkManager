@@ -6,6 +6,39 @@ description: ""
 permalink: /Changelog
 ---
 
+# Version 2020.12.1
+Date: **14.12.2020**
+
+| File | Checksum [SHA256] |
+|---|---|
+|[:package: Setup](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.1/NETworkManager_2020.12.1_Setup.exe){:target="_blank"}| `0A84BEF75A65DD457A2CDA64CDE00B3BF380D8D94D6BDB50EBC0869E31F5D2D9` | 
+|[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.1/NETworkManager_2020.12.1_Portable.zip){:target="_blank"}| `19D04BA6BBFB323F11889115489A299FE534C49AEA533030DF0F5B47AE7A722E` | 
+|[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.1/NETworkManager_2020.12.1_Archiv.zip){:target="_blank"}| `0F7BF030E4C4ADA8B54DF06C52CA5F19A1E3CA854E67A8E667277544A8882509` | 
+
+The setup is also available in the Windows Package Manager [:link: Chocolatey](https://chocolatey.org/packages/NETworkManager){:target="_blank"}.
+
+Note: _If you've installed the preview, uninstall it first!_
+
+⚠️ **SYSTEM REQUIREMENTS** ⚠️
+- Windows 10 / Server (1809 or later)
+- [.NET 5.0 / .NET Desktop Runtime 5.0.0](https://dotnet.microsoft.com/download/dotnet/5.0)
+- [Microsoft Edge (Chromium)](https://www.microsoft.com/de-de/edge)
+
+## What's new?
+- Ping Monitor
+  - Export as CSV, XML, JSON added [#389](http://github.com/BornToBeRoot/NETworkManager/issues/389){:target="_blank"} [#287](http://github.com/BornToBeRoot/NETworkManager/issues/287){:target="_blank"}
+
+## Improvements
+- Network Interface
+  - NetworkInterfaceType 53 added [#375](http://github.com/BornToBeRoot/NETworkManager/issues/375){:target="_blank"} 
+- About
+  - Version is now displayed correctly 2020.12.1 (YEAR.MONTH.PATCH)
+
+## Bugfixes
+- DNS Lookup
+  - Custom dns resolver fixed [#390](http://github.com/BornToBeRoot/NETworkManager/issues/390){:target="_blank"} 
+
+
 # Version 2020.12.0
 Date: **06.12.2020**
 

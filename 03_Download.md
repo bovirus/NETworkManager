@@ -8,14 +8,14 @@ permalink: /Download
 
 # Download
 
-Version: **2020.12.0**  
-Date: **06.12.2020**
+Version: **2020.12.1**  
+Date: **14.12.2020**
 
 | File | Checksum [SHA256] |
 |---|---|
-|[:package: Setup](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.0/NETworkManager_2020.12.0_Setup.exe){:target="_blank"}| `07B238ADC7B865AB3EB7F7C395674EB2A6C95ADCD4724317941EAB895D3E064D` | 
-|[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.0/NETworkManager_2020.12.0_Portable.zip){:target="_blank"}| `191F5A1C7E7DC59EE4B7CB17546564F69339D2963B7EC782FBE48F35C4B10C00` | 
-|[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.0/NETworkManager_2020.12.0_Archiv.zip){:target="_blank"}| `0038524849EAD33A3BAA8B493A424B0416D360E54DB52E931557219C30AAE955` | 
+|[:package: Setup](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.1/NETworkManager_2020.12.1_Setup.exe){:target="_blank"}| `0A84BEF75A65DD457A2CDA64CDE00B3BF380D8D94D6BDB50EBC0869E31F5D2D9` | 
+|[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.1/NETworkManager_2020.12.1_Portable.zip){:target="_blank"}| `19D04BA6BBFB323F11889115489A299FE534C49AEA533030DF0F5B47AE7A722E` | 
+|[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.12.1/NETworkManager_2020.12.1_Archiv.zip){:target="_blank"}| `0F7BF030E4C4ADA8B54DF06C52CA5F19A1E3CA854E67A8E667277544A8882509` | 
 
 The setup is also available in the Windows Package Manager [:link: Chocolatey](https://chocolatey.org/packages/NETworkManager){:target="_blank"}.
 
